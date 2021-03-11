@@ -1,0 +1,2 @@
+# hugo-blog
+new blog.
