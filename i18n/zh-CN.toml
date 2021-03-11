@@ -12,12 +12,12 @@ other = "查看评论"
 
 # === Post ===
 [posts]
-other = "文章"
+other = "归档"
 # === Post ===
 
 # === Taxonomy ===
 [allSome]
-other = "所有{{ .Some }}"
+other = "{{ .Some }}"
 
 [tag]
 other = "标签"
@@ -47,7 +47,7 @@ other = "切换主题"
 
 # === partials/footer.html ===
 [poweredBySome]
-other = "由 {{ .Hugo }} 强力驱动 | 主题 - {{ .Theme }}"
+other = "由 {{ .Hugo }} 强力驱动， 主题 {{ .MyTheme }} 移植自 {{ .Theme }} "
 # === partials/footer.html ===
 
 # === partials/comment.html ===
