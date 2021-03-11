@@ -1,0 +1,31 @@
+name = "lovelt-kalid"
+license = "MIT"
+licenselink = "https://github.com/dishuihengxin/lovelt-kalid/master/LICENSE"
+description = "my new blog theme."
+homepage = "https://kalid.io"
+tags = [
+  "blog",
+  "clean",
+  "responsive",
+  "dark",
+  "theme"
+]
+features = [
+  "cover-image",
+  "favicon",
+  "multilingual",
+  "pagination",
+  "social-menu",
+  "syntax-highlighting",
+  "SEO Optimized"
+]
+min_version = "0.62.0"
+
+[author]
+  name = "Kalid"
+  homepage = "https://kalid.io/"
+
+[original]
+  name = "Dillonzq"
+  homepage = "https://hugoloveit.com/"
+  repo = "https://github.com/dillonzq/LoveIt"
